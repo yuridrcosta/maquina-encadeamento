@@ -1,0 +1,2 @@
+SE A=sim E B=sim ENTÃO C=sim
+SE C=sim E D=sim ENTÃO E=sim
